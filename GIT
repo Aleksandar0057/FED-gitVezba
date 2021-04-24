@@ -1,3 +1,7 @@
-git status provera statusa d ali je digao na git
-git add .  digne promene na server sve i ztog foldera
+git status provera statusa da ali je digao na git
+git add .  digne promene na server sve iz tog foldera
 git commit -m "Zapocet rad na stranici" digao i snimio na server
+
+add
+commit
+i na kraju push
