@@ -1,0 +1,3 @@
+git status provera statusa d ali je digao na git
+git add .  digne promene na server sve i ztog foldera
+git commit -m "Zapocet rad na stranici" digao i snimio na server
